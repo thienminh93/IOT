@@ -4,7 +4,6 @@
       "name": "ESPL_IOT_BOARD",
       "maintainer": "Excelpoint",
       "websiteURL": "https://www.excelpoint.com/",
-      "email": "test@Excelpoint.com",
       "help": {
         "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
       },
