@@ -15,8 +15,8 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "file:///D:/1.Workspace/Projects/3.OROM/3.Investigate",
-          "archiveFileName": "Omron_iot.zip",
+          "url": "file:///D:/1.Workspace/Projects/3.OROM/3.Investigate/package/Omron_iot.tar",
+          "archiveFileName": "Omron_iot.tar",
           "checksum": "SHA-256:a9e5a02947ccdbb5d11ba4e507ac5a4cfc8d14a7f4a71a9bc699aee1a6151c4d",
           "size": "2165059",
           "help": {
