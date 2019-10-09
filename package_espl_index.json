@@ -15,10 +15,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/thienminh93/IOT/raw/master/espl_iot_board_v1.0.0.tar.bz2",
-          "archiveFileName": "espl_iot_board_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:a9e5a02947ccdbb5d11ba4e507ac5a4cfc8d14a7f4a71a9bc699aee1a6151c4d",
-          "size": "1352402",
+          "url": "D:\1.Workspace\Projects\3.OROM\3.Investigate\BoardPackage\Omron_iot\",
+          "archiveFileName": "Omron_Iot.tar.bz2",
+          "checksum": "SHA-256:6c5528f7f2ff215942804a62e98d795eb4313112bb108017c1ae359397a9699b",
+          "size": "1609620",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
