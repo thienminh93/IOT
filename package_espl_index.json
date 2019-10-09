@@ -15,8 +15,8 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://1drv.ms/u/s!AsShc-ei7S-1o2XzXOgcUm6wAS2L?e=af5YOo",
-          "archiveFileName": "Omron_Iot.tar.bz2",
+          "url": "https://github.com/thienminh93/IOT/raw/master/espl_iot_board_v1.0.0.tar.bz2",
+          "archiveFileName": "espl_iot_board_v1.0.0.tar.bz2",
           "checksum": "SHA-256:ca5e291dad40a6aa0c800ad9b0dec75b7724b241774c8043849b218345a75b64",
           "size": "1611759",
           "help": {
