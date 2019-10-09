@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "espl_iot_board",
+      "name": "ESPL_IOT_BOARD",
       "maintainer": "Excelpoint",
       "websiteURL": "https://www.excelpoint.com/",
       "email": "test@Excelpoint.com",
@@ -15,10 +15,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://1drv.ms/u/s!AsShc-ei7S-1o2XzXOgcUm6wAS2L?e=vajCeG",
+          "url": "https://1drv.ms/u/s!AsShc-ei7S-1o2XzXOgcUm6wAS2L?e=af5YOo",
           "archiveFileName": "Omron_Iot.tar.bz2",
-          "checksum": "SHA-256:f03b9af7e3ca1a8bd2819efd09c7f804be38573c3c3e52616dee506fd7331d99",
-          "size": "1612844",
+          "checksum": "SHA-256:ca5e291dad40a6aa0c800ad9b0dec75b7724b241774c8043849b218345a75b64",
+          "size": "1352402",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
