@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ESPL_IOT_BOARD",
+      "name": "espl_iot_board",
       "maintainer": "Excelpoint",
       "websiteURL": "https://www.excelpoint.com/",
       "email": "test@Excelpoint.com",
