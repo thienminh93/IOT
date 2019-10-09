@@ -17,8 +17,8 @@
           "category": "Contributed",
           "url": "https://1drv.ms/u/s!AsShc-ei7S-1o2dEy4bXjz8dvNfP?e=yWL0Tq",
           "archiveFileName": "samd.tar.bz2",
-          "checksum": "SHA-256:90d3f465c8c3e7df1c070ac49799e22ba290785cc2341eda31d8c7a4e1263ede",
-          "size": "2142067",
+          "checksum": "SHA-256:f03b9af7e3ca1a8bd2819efd09c7f804be38573c3c3e52616dee506fd7331d99",
+          "size": "1612844",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
