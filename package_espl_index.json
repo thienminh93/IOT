@@ -17,8 +17,8 @@
           "category": "Contributed",
           "url": "file:///D:/1.Workspace/Projects/3.OROM/3.Investigate/BoardPackage/",
           "archiveFileName": "samd.tar.bz2",
-          "checksum": "SHA-256:a9e5a02947ccdbb5d11ba4e507ac5a4cfc8d14a7f4a71a9bc699aee1a6151c4d",
-          "size": "1352402",
+          "checksum": "SHA-256:8bb9a660ecbce58dd4ba02bfd84efa2dcca8c46c4b52bdfc4595225d0e1f7269",
+          "size": "1398757 ",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
