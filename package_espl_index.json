@@ -15,10 +15,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://1drv.ms/u/s!AsShc-ei7S-1pG45h9Dnjehf7Lco?e=DWpf3d",
-          "archiveFileName": "espl_iot_board_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:08d7d66f3a3c76f6b4f26ac7ac5d52fcd279328671d1fcb481d4f24685d88ec3",
-          "size": "1612935",
+          "url": "https://onedrive.live.com/?authkey=%21ALc%2DWHeYs4hQt2s&cid=B52FEDA2E773A1C4&id=B52FEDA2E773A1C4%214720&parId=B52FEDA2E773A1C4%214716&action=locate",
+          "archiveFileName": "espl_iot_board_v1.0.0.zip",
+          "checksum": "SHA-256:0ddffdab03d034cc3bb90dc13fb049dc22264a0ba3fd10421736f4352103ec00",
+          "size": "2142215",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
