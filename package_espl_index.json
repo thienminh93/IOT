@@ -15,10 +15,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://e6anyg.bn.files.1drv.com/y4ma8LYKC7c-yN853l5bYut0vkHQIBT8TcFGV2ZVPyY4fMl2NE6kfrrlraveUeY504bgKZpCc_ImTab52Gi7cTz-lsP2mpx1hWoI8Hi9BjLQIQbFCPbpqG8PeKXGw3fUfT_eQCevxeihWqYFqFdGMZGkMd6n6bZVHBN4FMmGGPgBLg1n2toJJ-OmpXLQy5P2H74fru4a_gixXFpDTCi6OhkBg/espl_iot_board_v1.0.0.tar.bz2?download&psid=1",
+          "url": "https://e6anyg.bn.files.1drv.com/y4m27T1IFJE_k3Wt9TkIvYsQvNtDX9YHtQLm63bvV6cAAEXMxlOw1rtrE3S_MCmoth8koERZBUW80znYBAQt27oZkW-mMkuXa2zdA1kNCOydYhz-3XIvuA608LajONH5NlOK1jv9jXFaw3N7gHTWXLHv7UeUCtcNVI7aT7Z7ihSAIDegS2-EL_2hD2Qlyge9rBORmGrIceMo19EAASrndiDrg/espl_iot_board_v1.0.0.tar.bz2?download&psid=1",
           "archiveFileName": "espl_iot_board_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:8dd7ba6deea05acbabf8eeb3600c3ff2e056fd3f1aba1d1485470162b113f53d",
-          "size": "1366954",
+          "checksum": "SHA-256:a9a66c38d7af53814c79378a664220e77fa4a53db2e20b6ce3d5070de501c053",
+          "size": "1367168",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
