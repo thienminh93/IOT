@@ -17,8 +17,8 @@
           "category": "Contributed",
           "url": "https://e6anyg.bn.files.1drv.com/y4mCC0N3u7SNHduyLt9b1S0o3wzQm_N2ORnRar4dBQXDJNYLCihaog_OONQrlt8enNDwI59OZq7CjNDCzDQ1hk8tugg0Sv7iLMwGouYI6TFoJMnF9Z3uAGgZd5bj43c0TsvFJ45KE3V5QsvEgiVvkK6E88KYaSnVIIgeV_Abi6DWn1PfAvJb3nX5gJ3qHQew3sYhOS0BmNrlJciImUxhn1J9g/espl_iot_board_v1.0.0.tar.bz2?download&psid=1",
           "archiveFileName": "espl_iot_board_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:1ec85e745fcd92f49d7d185df74001da28a035b92e7c009db86fec3d15041e15",
-          "size": "1366721",
+          "checksum": "SHA-256:407f6f91659062afd5b3b338d82df6243fe2cf66f2ad668691ff46f332df12d5",
+          "size": "1366815",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
