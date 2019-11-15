@@ -15,7 +15,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "http://rndespl.synology.me:30000/minhnguyen/Omron/raw/Dev/Boardpackage/espl_iot_board_v1.0.0.tar.bz2",
+          "url": "file:///D:/1.Workspace/Projects/3.OROM/3.Investigate/Boardpackage/espl_iot_board_v1.0.0.tar.bz2",
           "archiveFileName": "espl_iot_board_v1.0.0.tar.bz2",
           "checksum": "SHA-256:407f6f91659062afd5b3b338d82df6243fe2cf66f2ad668691ff46f332df12d5",
           "size": "1366815",
